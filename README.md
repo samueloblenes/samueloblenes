@@ -9,7 +9,7 @@ I am a Nanotechnology Engineering student at the University of Waterloo with a p
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samueloblenes) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC7HAsIL1RFTXJ0rUNPT2cOQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samueloblenes@hotmail.com) 
 
-* 🖥️  See my portfolio at [[https//lowinertia.com/portfolio/samuel-oblenes](http://lowinertia.com/portfolio/samuel-oblenes)](https://samueloblenes.github.io/)
+* 🖥️  See my portfolio at [[samueloblenes.github.io](https://samueloblenes.github.io/)]
 * ✉️  You can contact me at [samueloblenes@htomail.com](mailto:samueloblenes@htomail.com)
 
 <p align="left">
