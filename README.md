@@ -1,16 +1,15 @@
-## Hi there 👋
+# About Me:
+I am a Nanotechnology Engineering student at the University of Waterloo with a particular interest in nanoelectronics, materials science, and the instrumentation used to study both.<br><br>Currently building an open-source potentiostat from scratch, an instrument for electrochemical characterisation, documented fully on GitHub. <br>The project involves analog circuit design, PCB layout in KiCad, embedded firmware on the Teensy 4.1, and Python-based data acquisition and analysis.<br><br>Previously designed and built a wind-powered triboelectric nanogenerator as part of a first-year team project. modelled in SolidWorks, fabricated using FDM 3D printing and laser cutting, and tested to produce measurable electrical output.<br><br>Hands-on experience with electronics prototyping, oscilloscopes, soldering, CAD (SolidWorks, Fusion 360, KiCad), Python, MATLAB, and wet lab techniques including solution preparation and micropipetting.<br><br>Longer term, I'm drawn toward research in nanoelectronics and materials science
 
-<!--
-**samueloblenes/samueloblenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samueloblenes) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC7HAsIL1RFTXJ0rUNPT2cOQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samueloblenes@hotmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=samueloblenes&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=samueloblenes&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samueloblenes&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
