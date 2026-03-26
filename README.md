@@ -17,9 +17,5 @@ I am a Nanotechnology Engineering student at the University of Waterloo with a p
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samueloblenes&theme=github_dark" />
-
-<div align="left">
-
-![](https://github-readme-stats.vercel.app/api?username=samueloblenes&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samueloblenes&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=holi)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=holi)
