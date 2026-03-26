@@ -20,7 +20,6 @@ I am a Nanotechnology Engineering student at the University of Waterloo with a p
 
 <div align="left">
 
-![](https://github-readme-stats.vercel.app/api?username=samueloblenes&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samueloblenes&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=samueloblenes&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samueloblenes&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
