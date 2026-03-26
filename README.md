@@ -9,8 +9,11 @@ I am a Nanotechnology Engineering student at the University of Waterloo with a p
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samueloblenes) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC7HAsIL1RFTXJ0rUNPT2cOQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samueloblenes@hotmail.com) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+* 🖥️  See my portfolio at [https//lowinertia.com/portfolio/samuel-oblenes](http://lowinertia.com/portfolio/samuel-oblenes)
+* ✉️  You can contact me at [samueloblenes@htomail.com](mailto:samueloblenes@htomail.com)
+
+<p align="left">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samueloblenes&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=samueloblenes&theme=github_dark&hide_border=false)<br/>
